@@ -7,6 +7,9 @@ public class Inferencia {
 		var c = "Texto";
 		c = "Outro texto";
 		System.out.println(c);
+		double d;
+		d = 123.5;
+		System.out.println(d);
 	}
 
 }
